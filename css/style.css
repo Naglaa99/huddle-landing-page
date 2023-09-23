@@ -143,7 +143,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .section2 {
-    margin: 100px;
+    margin: 90px;
   }
 
   .section2 .container {
@@ -152,11 +152,11 @@ body {
   }
 
   .col {
-    margin: 80px 0;
+    margin: 85px 0;
   }
 
   .col .text2 h1 {
-    font-size: 50px;
+    font-size: 60px;
   }
 
   .col span {
@@ -216,6 +216,7 @@ body {
   }
 
   .section3 .top1 {
+    height: 15vh;
     background-image: url("../images/bg-section-top-mobile-1.svg");
   }
 
@@ -337,7 +338,7 @@ body {
   }
 
   .section5 .top2 {
-    height: 19vh;
+    height: 14vh;
     background-image: url("../images/bg-section-top-mobile-2.svg");
   }
 
@@ -400,7 +401,7 @@ body {
 
   .section6 .footer-top {
     width: 100%;
-    height: 10vh;
+    height: 7vh;
     background-image: url("../images/bg-footer-top-mobile.svg");
     background-repeat: no-repeat;
   }
